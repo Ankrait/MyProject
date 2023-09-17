@@ -6,7 +6,7 @@
 <br />
 
 ### Built With
-<img src="https://github.com/Ankrait/MyProject/assets/104920129/de5aaa00-640c-472e-b26c-7b23343fb4ff" height="180px"></img>
+<img src="https://github.com/Ankrait/MyProject/assets/104920129/b5dbb29b-830d-4269-a052-6d8212f8c97d" height="200px"></img>
 
 ### Getting Started
 Для запуска локально скопируйте репозиторий и откройте index.html
