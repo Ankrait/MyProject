@@ -6,7 +6,7 @@
 <br />
 
 ### Built With
-<img src="https://ws-kursy.ru/wp-content/uploads/2020/09/HTML5_CSS3.png" height="150px"></img>
+<img src="https://github.com/Ankrait/MyProject/assets/104920129/de5aaa00-640c-472e-b26c-7b23343fb4ff" height="180px"></img>
 
 ### Getting Started
 Для запуска локально скопируйте репозиторий и откройте index.html
